@@ -35,6 +35,7 @@ export {
   useHref,
   useLocation,
   useMatch,
+  useMatches,
   useNavigate,
   useNavigation,
   useNavigationType,
@@ -67,7 +68,6 @@ export {
   LiveReload,
   useLoaderData,
   useRouteLoaderData,
-  useMatches,
   useActionData,
   RemixContext as UNSAFE_RemixContext,
 } from "./components";
